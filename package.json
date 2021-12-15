@@ -1,0 +1,25 @@
+{
+  "name": "team-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/strayfrozen/Team-Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/strayfrozen/Team-Generator/issues"
+  },
+  "homepage": "https://github.com/strayfrozen/Team-Generator#readme",
+  "devDependencies": {
+    "jest": "^27.4.3"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
